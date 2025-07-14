@@ -9,8 +9,8 @@ import static org.junit.jupiter.api.Assertions.*;
 /**
  * The test class PictureTest.
  *
- * @author  (your name)
- * @version (a version number or a date)
+ * @Abubakar Younis  (your name)
+ * @versio07/08/25 (a version number or a date)
  */
 public class PictureTest
 {
